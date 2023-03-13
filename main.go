@@ -1,7 +1,7 @@
 package main
 
-import "github.com/kiinoda/cryptit/encrypt"
-import "github.com/kiinoda/cryptit/decrypt"
+import "github.com/kiinoda/fakecrypt/encrypt"
+import "github.com/kiinoda/fakecrypt/decrypt"
 import "fmt"
 
 func main() {
